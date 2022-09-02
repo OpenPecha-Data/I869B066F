@@ -1,87 +1,50 @@
 བ ༄༅།།བོདཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་བ།
 Tibetan Buddhist Resource Center
 Text Scan Input Form - Title Page
-TBRC Volume Number
-TBRC Work Number (W)
+TBRC Volume Number 2831
+TBRC Work Number (W ) 23809
 Title
-2831
-23809
-གྲུབ་དབན་ཤཱཀྱ་ཤྲཱིའི་རྣམ་ཐར་མེ་ཏོག་ཕྲེང་བ་
+ གྲུབ་དབན་ཤཱཀྱ་ཤྲཱིའི་རྣམ་ཐར་མེ་ཏོག་ཕྲེང་བ་
 grub dban shAkya shrl'i rnam thar me tog phreng ba
 Author
-ཆོས་ཀྱི་རྒྱ་མཚོ་
+ ཆོས་ཀྱི་རྒྱ་མཚོ་
 chos kyi rgya mtsho
 Descriptor
 Original Publication
-Place
+Place 
 gangtok
-Publisher
+Publisher 
 sherab gyaltsen
-Date
-1980
+Date 1980
 Total Volumes
 Current Volume (of Total)
 Number of TBRC Introductory Pages
 Number of Introductory Pages
-Number of Text Pages
+Number of Text Pages 214
 :: TBRC Scanning Information
-214
-Scanned at Tibetan Buddhist Resource Center, 115 5th Avenue,
+ Scanned at Tibetan Buddhist Resource Center, 115 5th AvenueTT
 Floor 7, New York, NY 10003, 2003
-TT
-.
-..:
-2.
-tombre
-::
-.
-.
-.
-.
-.
-..
-..
-.
-ANI
-M
-A
-I
-.
--
-.
-.
-.
-'
+. ..: 2.tombre ::. . .. . .. .. . ANI MA I . - . . . '
 
-
-
-Full Record (Library of Congress Online Catalog)
 Page 1 of 2
-The Library of Congress
->> Go to Library of Congress Authorities
+Full Record (Library of Congress Online Catalog)
+The Library of Congress >> Go to Library of Congress Authorities
 LIBRARY OF CONGRESS ONLINE CATALOG
 DATABASE: Library of Congress Online Catalog
 YOU SEARCHED: Subject Browse = sakya-sri
 SEARCH RESULTS: Displaying 2 of 2.
 < Previous Next →
-Brief Record Subjects/Content Full Record
-1.
-A
-wwwwww .
-.
-.
-www.fi
-Y
-MARC Tags
+AA. wwwwww . .. www. fi
+Brief Record Subjects/Content Full Record Y MARC Tags
 Rje btsun bla ma rdo rje 'chan chen po 'S akya-'sr i-dzña na'i rnam thar me...
 LC Control Number: 80904446
-Type of Material: Book (Print, Microform, Electronic, etc.)
+Type of Material: Book (Print, Microform , Electronic, etc.)
 Personal Name: Kah-thog Si-tu Chos-kyi-rgya-mtsho, 1880-1925
 Main Title: Rje btsun bla ma rdo rje 'chan chen po 'S akya-'sr i-dzña na'i rnam thar me
 tog phren ba 'zes bya ba / 'Sar Kah thog Si-tu Chos-kyi-rgya-mtshos mdzad.
 Published/Created: Gangtok : Sherab Gyaltsen, 1980.
 Related Titles: Grub-dban Shakya-shr 1'i rnam thar me tog phren ba.
-Description: 213 p. ; 8 x 37 cm.
+Description: 213 p. ; 8 x 37 cm .
 Partial Contents: Rig 'dzin grub pa'i dban po'i rnam thar gyi tshul la gsol ba 'debs pa byin rlabs
 ñin byed 'dren pa'i 'sin rta.
 Notes: In Tibetan.
@@ -94,4 +57,5 @@ Copy1
 -- Request in: Asian Reading Room (Jefferson, LJ150)
 - Status: Not Charged
 « Previous Next
-.../Pwebrecon.cgi?v3=2&ti=1,2&Search_Arg=sakya-sri&Search_Code=SUBJ_&PID=15513&44/21/2003
+.../Pwebrecon.cgi?v3=2& ti= 1,2& Search_Arg=sakya-sri& Search_Code=SUBJ_ &PID =15513& 44/21/2003
+
